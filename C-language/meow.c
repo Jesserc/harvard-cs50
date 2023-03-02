@@ -21,7 +21,7 @@ int main(void)
     }
 
     /* loop forever (stop loop with ctrl x or cmd x) */
-    while (1)
+    while (true)
     {
         printf("meow...\n");
     }
