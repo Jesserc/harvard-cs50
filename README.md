@@ -1,4 +1,11 @@
 # CS50 - Introduction to Computer Science
+## Notes:
+- [Week 0](https://cs50.harvard.edu/x/2023/notes/0/)
+- [Week 1](https://cs50.harvard.edu/x/2023/notes/1/)
+- [Week 2](https://cs50.harvard.edu/x/2023/notes/2/)
+- [Week 3](https://cs50.harvard.edu/x/2023/notes/3/)
+- [Week 4](https://cs50.harvard.edu/x/2023/notes/4/)
+- [Week 5](https://cs50.harvard.edu/x/2023/notes/5/)
 
 # Data-types byte sizes in C
 
