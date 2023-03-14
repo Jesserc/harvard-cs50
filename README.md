@@ -1,4 +1,11 @@
 # CS50 - Introduction to Computer Science
+## Notes:
+- ✅[Week 0 - SCRATCH](https://cs50.harvard.edu/x/2023/notes/0/)
+- ✅[Week 1 - C LANGUAGE](https://cs50.harvard.edu/x/2023/notes/1/)
+- ✅[Week 2 - ARRAYS (arrays and strings in memory)](https://cs50.harvard.edu/x/2023/notes/2/)
+- [Week 3 ALGORITHMS](https://cs50.harvard.edu/x/2023/notes/3/)
+- [Week 4  MEMORY](https://cs50.harvard.edu/x/2023/notes/4/)
+- [Week 5 DATA STRUCTURES](https://cs50.harvard.edu/x/2023/notes/5/)
 
 # Data-types byte sizes in C
 
