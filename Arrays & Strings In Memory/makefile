@@ -1,5 +1,5 @@
-hello: hello.c
-	cc -o hello hello.c -lcs50
+array: array.c
+	cc -o array array.c -lcs50
 agree: agree.c
 	cc -o agree agree.c -lcs50
 compare: compare.c
