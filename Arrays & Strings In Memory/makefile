@@ -1,4 +1,4 @@
 array: array.c
 	cc -o array array.c -lcs50
-string: string.c
-	cc -o string string.c -lcs50
+strings: strings.c
+	cc -o strings strings.c -lcs50
